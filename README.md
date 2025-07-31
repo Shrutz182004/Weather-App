@@ -2,15 +2,6 @@
 
 A sleek and responsive Weather App that provides real-time weather updates for cities around the world. Built with **React**, **Vite**, and **Tailwind CSS**, it fetches data from the **OpenWeatherMap API** to display current temperature, humidity, wind conditions, sunrise/sunset times, and more.
 
-## 🔗 Live Demo
-
-[View Demo](#) *(optional — add link if deployed)*
-
----
-
-## Preview
-
-![Weather App Screenshot](./screenshot.png) *(optional — add a screenshot of your app UI)*
 
 ---
 
